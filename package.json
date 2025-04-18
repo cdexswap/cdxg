@@ -17,6 +17,7 @@
     "@types/mongoose": "^5.11.96",
     "mongoose": "^8.10.1",
     "next": "15.1.6",
+    "pino-pretty": "^13.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
